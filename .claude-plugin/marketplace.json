@@ -1,0 +1,12 @@
+{
+  "name": "cause-gaga",
+  "owner": {
+    "name": "Husur Dev"
+  },
+  "plugins": [
+    {
+      "name": "cause-gaga",
+      "source": "./"
+    }
+  ]
+}

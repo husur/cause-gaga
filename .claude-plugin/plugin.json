@@ -1,0 +1,13 @@
+{
+  "name": "cause-gaga",
+  "displayName": "Cause gaga",
+  "description": "Claude cause gaga, le parler populaire de Saint-Étienne, et le comprend quand on lui en parle.",
+  "author": {
+    "name": "Husur Dev",
+    "url": "https://github.com/husur"
+  },
+  "homepage": "https://github.com/husur/cause-gaga",
+  "repository": "https://github.com/husur/cause-gaga",
+  "license": "CC-BY-SA-4.0",
+  "keywords": ["gaga", "saint-etienne", "stephanois", "francais-regional", "output-style"]
+}
